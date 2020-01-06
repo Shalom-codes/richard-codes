@@ -1,0 +1,20 @@
+{
+  "name": "richard-codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shalom-codes/richard-codes.git"
+  },
+  "author": "shalom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shalom-codes/richard-codes/issues"
+  },
+  "homepage": "https://github.com/Shalom-codes/richard-codes#readme"
+}
